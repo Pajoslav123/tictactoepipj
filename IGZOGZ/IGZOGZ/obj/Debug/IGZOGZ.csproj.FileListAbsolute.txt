@@ -1,0 +1,12 @@
+C:\Users\Pavle\source\repos\IGZOGZ\IGZOGZ\bin\Debug\IGZOGZ.exe.config
+C:\Users\Pavle\source\repos\IGZOGZ\IGZOGZ\bin\Debug\IGZOGZ.exe
+C:\Users\Pavle\source\repos\IGZOGZ\IGZOGZ\bin\Debug\IGZOGZ.pdb
+C:\Users\Pavle\source\repos\IGZOGZ\IGZOGZ\obj\Debug\IGZOGZ.csproj.AssemblyReference.cache
+C:\Users\Pavle\source\repos\IGZOGZ\IGZOGZ\obj\Debug\IGZOGZ.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pavle\source\repos\IGZOGZ\IGZOGZ\obj\Debug\IGZOGZ.Form1.resources
+C:\Users\Pavle\source\repos\IGZOGZ\IGZOGZ\obj\Debug\IGZOGZ.Properties.Resources.resources
+C:\Users\Pavle\source\repos\IGZOGZ\IGZOGZ\obj\Debug\IGZOGZ.csproj.GenerateResource.cache
+C:\Users\Pavle\source\repos\IGZOGZ\IGZOGZ\obj\Debug\IGZOGZ.csproj.CoreCompileInputs.cache
+C:\Users\Pavle\source\repos\IGZOGZ\IGZOGZ\obj\Debug\IGZOGZ.exe
+C:\Users\Pavle\source\repos\IGZOGZ\IGZOGZ\obj\Debug\IGZOGZ.pdb
+C:\Users\Pavle\source\repos\IGZOGZ\IGZOGZ\obj\Debug\IGZOGZ.GameForm.resources
